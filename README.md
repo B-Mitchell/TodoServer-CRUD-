@@ -9,7 +9,6 @@ This is a simple CRUD application built with **FastAPI** and **SQLModel**, ideal
 - Create, read, update, and delete todo items
 - Local SQLite database with SQLModel
 - Tables auto-created at app startup
-- Environment variables supported via `.env`
 - Interactive API documentation at `/docs`
 
 ---
