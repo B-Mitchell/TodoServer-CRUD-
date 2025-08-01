@@ -1,4 +1,4 @@
-# 🐍 FastAPI CRUD App (Beginner-Friendly)
+# 🐍 FastAPI CRUD App (simple)
 
 This is a simple CRUD application built with **FastAPI** and **SQLModel**, ideal for Python beginners coming from other languages. It uses a local SQLite database and is structured for easy expansion later (authentication, frontend, etc.).
 
